@@ -1,1 +1,34 @@
-
+p{
+  font-family: Ariel;
+  color: red;
+}
+ul{
+  font-family: helvetica;
+  color: orange;
+}
+ol{
+  font-family: garamond;
+  color: yellow;
+}
+h1{
+  font-family: sans-serif;
+  color: green;
+}
+header{
+  font-family: serif;
+  color: blue;
+}
+body{
+  font-family: slab serif;
+  color: purple;
+}
+footer{
+  font-family: black letter;
+  color: black;
+  }
+  color: pink;
+}
+footer{
+  font-family: Ariel;
+  color: gray;
+}
